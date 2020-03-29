@@ -1,4 +1,3 @@
-# Team Assembly\XKUtils 0.1
 **********************************
 **********************************
 **      BROUGHT TO YOU BY:	**
@@ -55,4 +54,3 @@ Date: 01/06/2003
 By: UNDEAD [team-assembly]
 Reason: Prepared for Public Release
 ----------------------------------------------------------------------------
-
